@@ -7,7 +7,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  */
-/*
+
 .icon-arrow-left {
     background-position: -240px -96px;
 }
@@ -18,7 +18,7 @@
     margin-top: 1px;
     line-height: 14px;
     vertical-align: text-top;
-    background-image: url(./img/L.png);
+    background-image: url(https://semicon.github.io/bootstrap-datepicker-thai/img/L.png);
     background-position: 14px 14px;
     background-repeat: no-repeat;
 }
@@ -33,10 +33,10 @@
     margin-top: 1px;
     line-height: 14px;
     vertical-align: text-top;
-    background-image: url(./img/R.png);
+    background-image: url(https://semicon.github.io/bootstrap-datepicker-thai/img/R.png);
     background-position: 14px 14px;
     background-repeat: no-repeat;
-}*/
+}
 
 .datepicker {
   padding: 4px;
